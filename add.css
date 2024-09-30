@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(175, 0, 0);
+    margin: 0;
+    padding: 0;
+}
+#headerText{
+    padding-left: 2.5vw;
+}
+#link{
+    padding-left: 2.5vw;
+}
+#inputForm{
+    padding-left: 2.5vw;
+}
